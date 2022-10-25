@@ -42,7 +42,7 @@
 <h3 align="center"> 🚀 Demostração da página</h3>
 
 <div align="center">
-    <img src="./Compras-de-Pizzas/src/assets/images/pizza.gif"  width="auto" height="auto" alt="">
+    <img src="src/assets/images/pizza.gif"  width="auto" height="auto" alt="">
 </div>
 										     
 <hr>
